@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 
 modifying the file. 
 
-##description
-
+## description
+Here goes the description of the project
 ## How to Contribute
 Benjamin Cortes 
